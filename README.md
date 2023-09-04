@@ -1,11 +1,22 @@
+## Description
+This is a fully functioning Google Books API search engine, for book enthusist. To keep up with user demands I want to provide an application that is more performant. 
+
+## User Story
 AS AN avid reader
-
 I WANT to search for new books to read
-
 SO THAT I can keep a list of books to purchase
-I have built a fully functioning Google Books API search engine built with a RESTful API.
 
-It has been refactored to be a GraphQL API built with Apollo Server.
+## Technology Used
+RESTful API
+GraphQL API 
+Apollo Server
+MERN stack
+React
+Mongo DB
+Node.js/Express.js
 
-This app was built using the MERN stack, with a React front end, MongoDB database, and Node.js/Express.js server and API. 
+## Author 
+Robert Graham
+
+
 
